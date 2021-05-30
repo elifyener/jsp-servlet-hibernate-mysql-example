@@ -3,4 +3,3 @@ User Management web application using JSP, Servlet, and Hibernate. This web appl
 
 JSP Servlet Hibernate CRUD Example - 
 
-https://www.javaguides.net/2019/03/jsp-servlet-hibernate-crud-example.html
